@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Teachers:ital,wght@0,400..800;1,400..800&display=swap');
+
+
+header {
+    background: linear-gradient(to right,#FFDDE1, #EE9CA7, #FFDDE1);
+    padding: 10px;
+    margin-bottom: 30px;
+}
+
+h1 {
+    font-family: Teachers;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    margin-left: 80vh;
+}
+
+h2 {
+    font-family: Teachers;
+}
+
+nav ul li {
+    font-size: 30px;
+    margin-right: 37vh;
+    margin-left: 20px;
+    justify-content: center;
+    align-items: center;
+    display: inline-block;
+}
+
+aside {
+    width: 35%;
+    padding-left: 15px;
+    margin-left: 15px;
+    float: left;
+    font-style: italic;
+    background-color: rgb(224, 100, 147);
+    margin-top: 20px;
+    background: linear-gradient(to bottom, #EE9CA7, #FFDDE1);
+    font-size: 25px;
+}
+
+main {
+    margin-top: 20px;
+    float: left;
+}
+
+footer {
+    float: inline-start;
+    background-color: #fff;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    font-family: Teachers;
+    background-color: black;
+}
+
+img {
+
+    height: auto;
+    width: 50px;
+}
+
+p {
+    font-family: Teachers;
+    font-size: 20px;
+}
+
+
+
